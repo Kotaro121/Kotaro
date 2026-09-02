@@ -1,0 +1,26 @@
+{
+  "autoCompactWindow": 300000,
+  "deniedMcpServers": [
+    {
+      "serverName": "github"
+    },
+    {
+      "serverName": "Google_Calendar"
+    },
+    {
+      "serverName": "Google Calendar"
+    },
+    {
+      "serverName": "claude.ai Google Calendar"
+    },
+    {
+      "serverName": "Google_Drive"
+    },
+    {
+      "serverName": "Google Drive"
+    },
+    {
+      "serverName": "claude.ai Google Drive"
+    }
+  ]
+}
